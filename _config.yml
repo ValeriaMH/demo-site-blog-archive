@@ -1,6 +1,8 @@
 collections:
   archives:
     output: true
+  recipes:
+    output: true
     
     
 _options:
